@@ -1,0 +1,102 @@
+[
+  {
+    "_id": 10,
+    "name": "HenryG",
+    "dept": ["casting", "development", "testing"],
+    "salary": 15000,
+    "age": 24,
+    "desig": "manager",
+    "increment": true,
+    "perfStatus": "good"
+  },
+  {
+    "_id": 11,
+    "name": "SPUNJ",
+    "dept": ["hr", "frontend", "design"],
+    "salary": 10000,
+    "age": 26,
+    "desig": "supervisor",
+    "increment": true,
+    "perfStatus": "excellent"
+  },
+  {
+    "_id": 12,
+    "name": "Anders",
+    "dept": ["casting", "backend", "security"],
+    "salary": 14000,
+    "age": 29,
+    "desig": "team lead",
+    "increment": false,
+    "perfStatus": "average"
+  },
+  {
+    "_id": 13,
+    "name": "Semmler",
+    "dept": ["security", "admin", "maintenance"],
+    "salary": 23000,
+    "age": 22,
+    "desig": "pentester",
+    "increment": false,
+    "perfStatus": "good"
+  },
+  {
+    "_id": 14,
+    "name": "Hugo",
+    "dept": ["infra", "arch", "design"],
+    "salary": 15000,
+    "age": 32,
+    "desig": "Designer",
+    "increment": true,
+    "perfStatus": "not satisfactory"
+  },
+  {
+    "_id": 15,
+    "name": "Machine",
+    "dept": ["lead", "backend", "security", "testing"],
+    "salary": 20000,
+    "age": 27,
+    "desig": "supervisor",
+    "increment": false,
+    "perfStatus": "excellent"
+  },
+  {
+    "_id": 16,
+    "name": "Harry",
+    "dept": ["sales", "market"],
+    "salary": 10000,
+    "age": 26,
+    "desig": "Sales manager",
+    "increment": true,
+    "perfStatus": "average"
+  },
+  {
+    "_id": 17,
+    "name": "Stunna",
+    "dept": ["security", "testing", "development"],
+    "salary": 14000,
+    "age": 34,
+    "desig": "red team",
+    "increment": false,
+    "perfStatus": "good"
+  },
+  {
+    "_id": 18,
+    "name": "launders",
+    "dept": ["casting", "design", "frontend"],
+    "salary": 15000,
+    "age": 26,
+    "desig": "Trainee",
+    "increment": true,
+    "perfStatus": "good"
+  },
+  {
+    "_id": 19,
+    "name": "Scrawny",
+    "dept": ["hr", "infra", "design"],
+    "salary": 11000,
+    "age": 24,
+    "desig": "human res",
+    "increment": true,
+    "perfStatus": "excellent"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "_id": 1,
+    "name": "Game of Thrones: winds of winter",
+    "series": true,
+    "published": 2002,
+    "category": ["Thriller", "fantasy", "Action"],
+    "price": 4500,
+    "authors": ["Geoge RR Martin"],
+    "availCountries": ["USA", "india", "UK"]
+  },
+  {
+    "_id": 2,
+    "name": "Linear Algebra",
+    "series": false,
+    "published": 2012,
+    "category": ["Gore", "Horror"],
+    "price": 6900,
+    "authors": ["RS Agarwal"],
+    "availCountries": ["India"]
+  },
+  {
+    "_id": 3,
+    "name": "Jack reacher",
+    "series": true,
+    "published": 2013,
+    "category": ["Crime", "Thriller", "Action"],
+    "price": 2300,
+    "authors": ["Tom Cruise", "Chris Nolan"],
+    "availCountries": ["USA", "UK"]
+  },
+  {
+    "_id": 4,
+    "name": "It",
+    "series": false,
+    "published": 2009,
+    "category": ["Horror", "Ghost", "Clown"],
+    "price": 6700,
+    "authors": ["Amith Shah"],
+    "availCountries": ["Sri Lanka", "Denmark"]
+  },
+  {
+    "_id": 5,
+    "name": "Harry Potter",
+    "series": true,
+    "published": 2000,
+    "category": ["Magic", "Fantasy"],
+    "price": 8900,
+    "authors": ["Michael Jordan"],
+    "availCountries": ["USA"]
+  },
+  {
+    "_id": 6,
+    "name": "How to play CS",
+    "series": false,
+    "published": 2021,
+    "category": ["Skills", "Action", "Adventure"],
+    "price": 7600,
+    "authors": ["s1mple", "dev1ce"],
+    "availCountries": ["Denmark", "CIS"]
+  },
+  {
+    "_id": 7,
+    "name": "Electrical devices",
+    "series": true,
+    "published": 2019,
+    "category": ["Horror", "Ghost"],
+    "price": 4500,
+    "authors": ["Harry potter"],
+    "availCountries": ["USA"]
+  },
+  {
+    "_id": 8,
+    "name": "Goblet of fire",
+    "series": true,
+    "published": 1997,
+    "category": ["Magic"],
+    "price": 4500,
+    "authors": ["Some dude"],
+    "availCountries": ["India"]
+  },
+  {
+    "_id": 9,
+    "name": "China country",
+    "series": true,
+    "published": 1990,
+    "category": ["Chinese"],
+    "price": 6700,
+    "authors": ["Chinese dude"],
+    "availCountries": ["China"]
+  },
+  {
+    "_id": 10,
+    "name": "Cracking the coding interview",
+    "series": false,
+    "published": 2002,
+    "category": ["Code", "Stress"],
+    "price": 4500,
+    "authors": ["Gayle"],
+    "availCountries": ["USA", "UK"]
+  }
+]
