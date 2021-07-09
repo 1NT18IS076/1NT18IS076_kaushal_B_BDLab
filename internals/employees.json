@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Ajay",
+        "yearsOfService": 5,
+        "numberOfIncrements": 2,
+        "eligibleForPayRaise": true,
+        "salary": 30000,
+        "tax": 10000
+    },
+    {
+        "name": "NiKo",
+        "yearsOfService": 7,
+        "numberOfIncrements": 1,
+        "eligibleForPayRaise": true,
+        "salary": 40000,
+        "tax": 15000
+    },
+    {
+        "name": "dupreeh",
+        "yearsOfService": 8,
+        "numberOfIncrements": 3,
+        "eligibleForPayRaise": true,
+        "salary": 45000,
+        "tax": 20000
+    },
+    {
+        "name": "Xyp9x",
+        "yearsOfService": 4,
+        "numberOfIncrements": 0,
+        "eligibleForPayRaise": false,
+        "salary": 20000,
+        "tax": 6000
+    },
+    {
+        "name": "dev1ce",
+        "yearsOfService": 6,
+        "numberOfIncrements": 6,
+        "eligibleForPayRaise": true,
+        "salary": 55000,
+        "tax": 20000
+    },
+    {
+        "name": "FalleN",
+        "yearsOfService": 7,
+        "numberOfIncrements": 0,
+        "eligibleForPayRaise": false,
+        "salary": 35000,
+        "tax": 10000
+    },
+    {
+        "name": "JW",
+        "yearsOfService": 10,
+        "numberOfIncrements": 1,
+        "eligibleForPayRaise": true,
+        "salary": 20000,
+        "tax": 6000
+    },
+    {
+        "name": "coldzera",
+        "yearsOfService": 2,
+        "numberOfIncrements": 2,
+        "eligibleForPayRaise": true,
+        "salary": 40000,
+        "tax": 10000
+    },
+    {
+        "name": "NAF",
+        "yearsOfService": 4,
+        "numberOfIncrements": 0,
+        "eligibleForPayRaise": false,
+        "salary": 35000,
+        "tax": 10000
+    },
+    {
+        "name": "karrigan",
+        "yearsOfService": 7,
+        "numberOfIncrements": 1,
+        "eligibleForPayRaise": false,
+        "salary": 40000,
+        "tax": 15000
+    },
+    {
+        "name": "s1mple",
+        "yearsOfService": 4,
+        "numberOfIncrements": 5,
+        "eligibleForPayRaise": true,
+        "salary": 60000,
+        "tax": 20000
+    },
+    {
+        "name": "kennyS",
+        "yearsOfService": 1,
+        "numberOfIncrements": 3,
+        "eligibleForPayRaise": true,
+        "salary": 55000,
+        "tax": 20000
+    },
+    {
+        "name": "gla1ve",
+        "yearsOfService": 2,
+        "numberOfIncrements": 1,
+        "eligibleForPayRaise": true,
+        "salary": 40000,
+        "tax": 15000
+    },
+    {
+        "name": "flusha",
+        "yearsOfService": 12,
+        "numberOfIncrements": 3,
+        "eligibleForPayRaise": true,
+        "salary": 37000,
+        "tax": 12000
+    },
+    {
+        "name": "shroud",
+        "yearsOfService": 4,
+        "numberOfIncrements": 2,
+        "eligibleForPayRaise": false,
+        "salary": 45000,
+        "tax": 15000
+    },
+    {
+        "name": "neo",
+        "yearsOfService": 7,
+        "numberOfIncrements": 2,
+        "eligibleForPayRaise": true,
+        "salary": 45000,
+        "tax": 15000
+    },
+    {
+        "name": "f0rest",
+        "yearsOfService": 4,
+        "numberOfIncrements": 1,
+        "eligibleForPayRaise": false,
+        "salary": 37000,
+        "tax": 12000
+    },
+    {
+        "name": "friberg",
+        "yearsOfService": 2,
+        "numberOfIncrements": 3,
+        "eligibleForPayRaise": true,
+        "salary": 45000,
+        "tax": 15000
+    },
+    {
+        "name": "GeT_RiGhT",
+        "yearsOfService": 10,
+        "numberOfIncrements": 2,
+        "eligibleForPayRaise": true,
+        "salary": 35000,
+        "tax": 12000
+    },
+    {
+        "name": "rain",
+        "yearsOfService": 6,
+        "numberOfIncrements": 0,
+        "eligibleForPayRaise": false,
+        "salary": 40000,
+        "tax": 10000
+    }
+]
